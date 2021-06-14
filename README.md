@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codeSTACK.vercel.app/api/spotify-playing" alt="Sena Spotify Playing" width="350" />](https://open.spotify.com/user/11144727556)
+[![Spotify](https://senakvkc.vercel.app/api/spotify)](https://open.spotify.com/user/11144727556)
 
 ### Connect with me:
 
