@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://senakvkc.vercel.app/api/spotify)](https://open.spotify.com/user/11144727556)
+[![Spotify](https://novatorem-senakvkc.vercel.app/api/spotify)](https://open.spotify.com/user/11144727556)
 
 ### Connect with me:
 
