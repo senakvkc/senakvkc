@@ -1,4 +1,4 @@
-### Hi there, I'm Sena 👋
+### Hi there, I'm Sena :sparkles:
 
 [![Website](
 https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=senakavukcu.com&logoColor=blue&up_color=blue&up_message=VISIT&url=https%3A%2F%2Fsenakavukcu.com)](https://senakavukcu.com)
