@@ -44,7 +44,7 @@ https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=
 - [Login Error in Windows 10](https://senakavukcu.com/en/kullaniciadiveparolahatasi/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://senakavukcu.com/en/)
 
 ---
 
