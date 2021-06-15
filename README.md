@@ -51,7 +51,7 @@ https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sena's GitHub Stats" src="https://github-readme-stats.senakvkc.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sena's GitHub Stats" src="https://github-readme-stats-flax-sigma-53.vercel.app/api?username=senakvkc&show_icons=true&hide_border=true" />
 
 </details>
 
