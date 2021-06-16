@@ -7,7 +7,7 @@ https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=
 
 - :books: I’m currently trying to learn everything :grin:
 - 🥅 2021 Goals: Using my Github more frequently
-- :racehorse: Fun fact: I'm a Red Dead addict, and also an archer
+- :racehorse: Fun fact: I'm a Red Dead addict, and also an archer 
 
 ### Spotify Playing 🎧
 
