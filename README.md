@@ -3,7 +3,7 @@
 [![Website](
 https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=senakavukcu.com&logoColor=blue&up_color=blue&up_message=VISIT&url=https%3A%2F%2Fsenakavukcu.com)](https://senakavukcu.com)
 
-## I'm a Computer Engineer, Archer, Developer, and Teacher!
+## I'm a Computer Engineer, Archer, and Developer!
 
 - :books: I’m currently trying to learn everything :grin:
 - :sunflower: 2021 Goals: Using my Github more frequently
