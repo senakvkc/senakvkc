@@ -51,14 +51,12 @@ https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=zAXG-c_JrkQ)
-- [$1M in 1000 Days❓, IDE vs Text Editor 🆚, & How Many Languages to Learn 📚 // STACKr News Weekly](https://www.youtube.com/watch?v=kroLbiFXMjw)
-- [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
+- [Red Dead Online'ın Yeni Call to Arms Modunu Denedik!](https://www.youtube.com/watch?v=DkBuC-xYV-c&ab_channel=YourTechWizard)
+- [Cyberpunk 2077'nin 3. BÜYÜK Güncellemesini İnceledik!](https://www.youtube.com/watch?v=3vmo4CJmLQQ&t=1926s&ab_channel=YourTechWizard)
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCcs6hELDKiXYUMajbVGravA)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
