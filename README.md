@@ -39,6 +39,7 @@ https://img.shields.io/website?down_message=https%3A%2F%2Fsenakavukcu.com&label=
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[EN] What's AAA Concept in Network Security?](https://senakavukcu.com/en/tr-ag-guvenliginde-aaa-konsepti-nedir/)
 - [My Re-Coded Adventure](https://senakavukcu.com/en/re-coded-maceram/)
 - [Using one SD card with multiple operating systems Raspberry Pi](https://senakavukcu.com/en/tek-sd-kartta-birden-fazla-isletim-sistemi-calistirma/)
 - [Login Error in Windows 10](https://senakavukcu.com/en/kullaniciadiveparolahatasi/)
